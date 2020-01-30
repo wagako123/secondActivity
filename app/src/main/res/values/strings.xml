@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_main">Send</string>
+    <string name="text_header_reply">Recieved</string>
+    <string name="editText_second">Enter Your Message here</string>
+    <string name="button_second">Reply</string>
+    <string name="text_header">Message Received</string>
+</resources>
